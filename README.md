@@ -3,6 +3,11 @@ Final Project for the course Artificial Intelligence for Security regarding Netw
 
 **Francesco Albertini**, **Filippo Lafronza**, **Guglielmo Ranieri**
 
+## The Repository:
+- You will find a pdf containing the instructions for the assignment. 
+- 2 Notebooks for Network Traffic Analysis (the original and the improved one).
+- 2 Notebooks for Android Malware Analysis (the original and the improved one).
+
 ## The Assignment:
 
 - must be completed in groups:
