@@ -1,4 +1,4 @@
-# assignment_AI4S
+# assignment_2019_AI4S
 Final Project for the course Artificial Intelligence for Security regarding Network Traffic Analysis and Android Malware Detection
 
 **Francesco Albertini**, **Filippo Lafronza**, **Guglielmo Ranieri**
