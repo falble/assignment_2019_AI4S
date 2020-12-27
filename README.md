@@ -3,12 +3,12 @@ Final Project for the course Artificial Intelligence for Security regarding Netw
 
 **Francesco Albertini**, **Filippo Lafronza**, **Guglielmo Ranieri**
 
-## The Repository:
+## Rpository:
 - You will find a pdf containing the instructions for the assignment. 
 - 2 Notebooks for Network Traffic Analysis (the original and the improved one).
 - 2 Notebooks for Android Malware Analysis (the original and the improved one).
 
-## The Assignment:
+## Assignment:
 
 - must be completed in groups:
   - each group should consist of a minimum of 3 and a maximum of 4 students.
@@ -19,7 +19,7 @@ analysis you are performing and discussion of the results.
   - requires each group to present their notebook during the practical session on Friday 20th of
 December at 2:15pm.
 
-## The Datasets:
+## Datasets:
 
 - The assignment makes use of 2 publicly available datasets.
 - The first dataset contains network flow data with simulated attacks on a network.
